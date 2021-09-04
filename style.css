@@ -51,6 +51,7 @@ body{
 	font-size: 25px;
 	font-family: cursive;
   }
+  
   #menu_list{
 	background-color:#f5c71a;
 	color:white; 
@@ -132,4 +133,11 @@ ol.menulist>li
 .card img{
 	width:100px;
 	height: 80px;
+}
+
+
+
+#display_menu{
+	color: white;
+	font-size: 25px;
 }
